@@ -1,7 +1,7 @@
 javaFXを使ったプログラムの勉強
 -
 まず、クラスライブラリを勉強する。  
-[Sample1](src/Sample1"Sample1")
+[Sample1](tree/master/src/Sample1)
 〜ステージを表示する。  
 [Sample2](https://github.com/Yoshiki-Yamada/javafx_application/tree/master/src/Sample2"Sample2")
 〜ボタン機能を使う。  
