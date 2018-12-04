@@ -18,7 +18,6 @@ public class Sample5 extends Application {
     }
     public void start(Stage stage)throws Exception{
         lb = new Label("いらっしゃいませ。");
-        bt = new Button("購入");
         BorderPane bp = new BorderPane();
         bp.setTop(lb);
         bp.setCenter(bt);
